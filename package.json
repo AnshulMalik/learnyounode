@@ -59,7 +59,7 @@
   "license": "MIT",
   "dependencies": {
     "after": "~0.8.1",
-    "bl": "^1.2.1",
+    "bl": "^2.1.1",
     "boganipsum": "~0.1.0",
     "colors-tmpl": "^1.0.0",
     "combined-stream": "^1.0.5",
@@ -75,7 +75,7 @@
     "workshopper-wrappedexec": "~0.1.1"
   },
   "devDependencies": {
-    "standard": "^11.0.0",
+    "standard": "^12.0.1",
     "standard-version": "^4.0.0",
     "workshopper-adventure-test": "^1.1.2"
   },
